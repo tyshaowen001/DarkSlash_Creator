@@ -63,7 +63,7 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 92
+        "__id__": 91
       }
     ],
     "_prefab": null,
@@ -156,9 +156,6 @@
       },
       {
         "__id__": 90
-      },
-      {
-        "__id__": 91
       }
     ],
     "_prefab": null,
@@ -3737,24 +3734,6 @@
       }
     ],
     "playOnLoad": false
-  },
-  {
-    "__type__": "aa77bcy1MlA3bRL8zpupFoD",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 3
-    },
-    "_enabled": true,
-    "menuAnim": {
-      "__id__": 89
-    },
-    "menuParticle": {
-      "__id__": 12
-    },
-    "btnGroup": {
-      "__id__": 72
-    }
   },
   {
     "__type__": "cc.Widget",
