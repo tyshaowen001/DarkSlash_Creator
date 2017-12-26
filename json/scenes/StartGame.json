@@ -196,22 +196,22 @@
 														{
 															"frame": 0.2,
 															"value": {
-																"x": 677,
-																"y": -105
+																"x": 1245,
+																"y": 215
 															}
 														},
 														{
 															"frame": 0.5,
 															"value": {
-																"x": 222.85652173912985,
-																"y": -104.70869565217392
+																"x": 790.8565217,
+																"y": 216.7086957
 															}
 														},
 														{
 															"frame": 2.5,
 															"value": {
-																"x": 209.3,
-																"y": -104.7
+																"x": 777.3,
+																"y": 216.7
 															}
 														}
 													]
@@ -268,8 +268,8 @@
 														{
 															"frame": 0,
 															"value": {
-																"x": 14,
-																"y": 0
+																"x": 582,
+																"y": 320
 															},
 															"curveData": [
 																0.4,
@@ -281,15 +281,15 @@
 														{
 															"frame": 0.2833333333333333,
 															"value": {
-																"x": -5.039999999999899,
-																"y": 0
+																"x": 563.04,
+																"y": 320
 															}
 														},
 														{
 															"frame": 2.5,
 															"value": {
-																"x": 0,
-																"y": 0
+																"x": 568,
+																"y": 320
 															}
 														}
 													]
@@ -490,15 +490,15 @@
 														{
 															"frame": 0,
 															"value": {
-																"x": -795,
-																"y": 0
+																"x": -227,
+																"y": 320
 															}
 														},
 														{
 															"frame": 0.16666666666666666,
 															"value": {
-																"x": 0,
-																"y": 0
+																"x": 568,
+																"y": 320
 															}
 														}
 													]
@@ -902,8 +902,8 @@
 												},
 												"rotationSkewX": 0,
 												"rotationSkewY": 0,
-												"scaleX": 10,
-												"scaleY": 10,
+												"scaleX": 2,
+												"scaleY": 2,
 												"skewX": 0,
 												"skewY": 0,
 												"tag": -1,
@@ -1023,7 +1023,7 @@
 											"w": 0,
 											"h": 0
 										},
-										"enabled": true,
+										"enabled": false,
 										"name": "particleAsh",
 										"anchorPoint": {
 											"x": 0.5,
@@ -1040,8 +1040,8 @@
 										"opacity": 255,
 										"opacityModifyRGB": false,
 										"position": {
-											"x": -463,
-											"y": -357
+											"x": 0,
+											"y": 0
 										},
 										"rotationSkewX": 0,
 										"rotationSkewY": 0,
@@ -2678,10 +2678,53 @@
 								"object": {
 									"node": {
 										"contentSize": {
+											"w": 0,
+											"h": 0
+										},
+										"enabled": true,
+										"name": "particleAsh",
+										"anchorPoint": {
+											"x": 0.5,
+											"y": 0.5
+										},
+										"cascadeOpacityEnabled": true,
+										"color": {
+											"r": 255,
+											"g": 255,
+											"b": 255
+										},
+										"globalZOrder": 0,
+										"localZOrder": 0,
+										"opacity": 255,
+										"opacityModifyRGB": false,
+										"position": {
+											"x": 0,
+											"y": 0
+										},
+										"rotationSkewX": 0,
+										"rotationSkewY": 0,
+										"scaleX": 1,
+										"scaleY": 1,
+										"skewX": 0,
+										"skewY": 0,
+										"tag": -1,
+										"groupIndex": 0,
+										"colliders": []
+									},
+									"particleFilename": "creator/ash.plist",
+									"texturePath": "creator/textures/efx/efx_pixel_dot.png"
+								},
+								"object_type": "Particle",
+								"children": []
+							},
+							{
+								"object": {
+									"node": {
+										"contentSize": {
 											"w": 1360,
 											"h": 720
 										},
-										"enabled": true,
+										"enabled": false,
 										"name": "mask",
 										"anchorPoint": {
 											"x": 0.5,
@@ -2695,7 +2738,7 @@
 										},
 										"globalZOrder": 0,
 										"localZOrder": 0,
-										"opacity": 0,
+										"opacity": 255,
 										"opacityModifyRGB": false,
 										"position": {
 											"x": 0,
