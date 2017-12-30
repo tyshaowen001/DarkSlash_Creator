@@ -7,7 +7,7 @@
 					"w": 0,
 					"h": 0
 				},
-				"name": "",
+				"enabled": true,
 				"anchorPoint": {
 					"x": 0,
 					"y": 0
@@ -23,6 +23,7 @@
 				"opacity": 255,
 				"opacityModifyRGB": false,
 				"tag": -1,
+				"groupIndex": 0,
 				"colliders": []
 			}
 		},
@@ -2584,7 +2585,7 @@
 															"node": {
 																"contentSize": {
 																	"w": 84,
-																	"h": 159
+																	"h": 165
 																},
 																"enabled": true,
 																"name": "efx_revive_l1",
@@ -3192,7 +3193,7 @@
 													"node": {
 														"contentSize": {
 															"w": 233,
-															"h": 102
+															"h": 103
 														},
 														"enabled": true,
 														"name": "bg",
@@ -3599,7 +3600,7 @@
 														},
 														"globalZOrder": 0,
 														"localZOrder": 0,
-														"opacity": 85.00000000000045,
+														"opacity": 85,
 														"opacityModifyRGB": false,
 														"position": {
 															"x": 108,
@@ -3728,7 +3729,7 @@
 										"object": {
 											"node": {
 												"contentSize": {
-													"w": 157,
+													"w": 158,
 													"h": 95
 												},
 												"enabled": true,
@@ -3748,7 +3749,7 @@
 												"opacity": 255,
 												"opacityModifyRGB": false,
 												"position": {
-													"x": -439.5,
+													"x": -439,
 													"y": 0
 												},
 												"rotationSkewX": 0,
@@ -3913,7 +3914,7 @@
 												"object": {
 													"node": {
 														"contentSize": {
-															"w": 157,
+															"w": 158,
 															"h": 95
 														},
 														"enabled": true,
@@ -4841,8 +4842,8 @@
 												"object": {
 													"node": {
 														"contentSize": {
-															"w": 457,
-															"h": 83
+															"w": 459,
+															"h": 85
 														},
 														"enabled": true,
 														"name": "death_title",
@@ -4891,7 +4892,7 @@
 											"node": {
 												"contentSize": {
 													"w": 311,
-													"h": 90
+													"h": 99
 												},
 												"enabled": true,
 												"name": "btn_save",
@@ -5398,8 +5399,8 @@
 										"object": {
 											"node": {
 												"contentSize": {
-													"w": 457,
-													"h": 83
+													"w": 459,
+													"h": 85
 												},
 												"enabled": true,
 												"name": "img_title",
@@ -5635,7 +5636,7 @@
 												"object": {
 													"node": {
 														"contentSize": {
-															"w": 43,
+															"w": 44.49,
 															"h": 40
 														},
 														"enabled": true,
@@ -5732,7 +5733,7 @@
 												"object": {
 													"node": {
 														"contentSize": {
-															"w": 95,
+															"w": 96.62,
 															"h": 40
 														},
 														"enabled": true,
@@ -5829,7 +5830,7 @@
 												"object": {
 													"node": {
 														"contentSize": {
-															"w": 63,
+															"w": 66.74,
 															"h": 40
 														},
 														"enabled": true,
